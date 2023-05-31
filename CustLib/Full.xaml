@@ -1,0 +1,10 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+					xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Themes/ButOn.xaml"/>
+        <ResourceDictionary Source="Themes/BlockTexta.xaml"/>
+        <ResourceDictionary Source="Themes/GridCtyle.xaml"/>
+        <ResourceDictionary Source="Themes/Ckeky.xaml"/>
+        <ResourceDictionary Source="Themes/Listik.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
